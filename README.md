@@ -1,10 +1,10 @@
 # Blender Royal
 
-A theme for Blender 3.1
+A theme for Blender 4.0
 
 ## Royal Dark
 
-[**Download `RoyalDark.xml`\***](https://raw.githubusercontent.com/ForestKatsch/BlenderRoyal/master/themes/RoyalDark.xml)
+[**Download `Royal_Dark.xml`\***](https://raw.githubusercontent.com/ForestKatsch/BlenderRoyal/master/themes/Royal_Dark.xml)
 
 ![](media/model.png)
 ![](media/shader.png)
