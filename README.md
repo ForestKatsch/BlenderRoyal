@@ -14,3 +14,11 @@ A dark, minimal theme for Blender 5.1+
 
 ![](media/shader.png)
 ![](media/uv.png)
+
+# License
+
+This project is made available under your choice of these terms:
+
+* Public domain
+* CC0 1.0
+* [WTFPL](https://www.wtfpl.net/)
