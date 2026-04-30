@@ -1,6 +1,6 @@
 # Blender Royal
 
-A dark, minimal theme for Blender 4.0
+A dark, minimal theme for Blender 5.1+
 
 ![](media/model.png)
 
@@ -10,7 +10,7 @@ A dark, minimal theme for Blender 4.0
 
 1. Open Blender and go to **Edit / Preferences**
 2. Select the **Themes** tab
-3. Click **Install** and select the file you downloaded
+3. Click **Install** and select the XML file you downloaded
 
 ![](media/shader.png)
 ![](media/uv.png)
